@@ -20,7 +20,7 @@ public class EmployeeService {
         return company;
     }
 
-    public Company reliable() {
+    public Company reliable(int companyId){
         return null;
     }
 
